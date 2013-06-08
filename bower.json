@@ -1,0 +1,10 @@
+{
+  "name": "j4y35",
+  "version": "0.0.1",
+  "main": "leet.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "j4y35",
+  "version": "0.0.0",
+  "description": "1337ifier",
+  "main": "leet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/btford/j4y35.git"
+  },
+  "keywords": [
+    "1337"
+  ],
+  "author": "Brian Ford",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/btford/j4y35/issues"
+  }
+}
